@@ -1,4 +1,4 @@
-<h2 align="left">Hi there!  I'm Andrey Ulanoff - iOS Developer  👋</h2>
+<h2 align="left">Hi there!  I'm Andrey Ulanov - iOS Developer  👋</h2>
 
 ###
 
