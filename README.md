@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2 align="left">Hi there 👋  I'm Andrey Ulanoff 🥷</h2>
 
-<!--
-**ulanoff/ulanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h5 align="left">Core Stack:<br>- Swift<br>- UIKit | AutoLayout | SnapKit<br>- MVP | MVVM<br>- CocoaPods | SPM<br>- CoreData | Realm<br>- UI | Snapshot | Unit testing</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h5 align="left">Speak:<br>- Russian (native)<br>- English (B2)</h5>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ulanoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ulanoff&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+</div>
+
+###
