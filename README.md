@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Speak:<br>- Russian (native)<br>- English (B2)</h4>
+<h4 align="left">I Speak:<br>- Russian (native)<br>- English (B2)</h4>
 
 ###
 
