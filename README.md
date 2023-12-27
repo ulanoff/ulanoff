@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Core Stack:<br>- Swift<br>- UIKit | AutoLayout | SnapKit<br>- MVP | MVVM<br>- CocoaPods | SPM<br>- CoreData | Realm<br>- UI | Snapshot | Unit testing</h4>
+<h4 align="left">Core Stack:<br>- Swift<br>- UIKit<br>- MVP | MVVM | VIPER <br>- CocoaPods | SPM<br>- CoreData | Realm<br>- UI | Snapshot | Unit testing</h4>
 
 ###
 
