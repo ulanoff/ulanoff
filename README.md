@@ -2,11 +2,7 @@
 
 ###
 
-<h4 align="left">Core Stack:<br>- Swift<br>- UIKit<br>- MVP | MVVM | VIPER <br>- CocoaPods | SPM<br>- CoreData | Realm<br>- UI | Snapshot | Unit testing</h4>
-
-###
-
-<h4 align="left">I Speak:<br>- Russian (native)<br>- English (B2)</h4>
+<h4 align="left">Tech Stack:<br>- Swift<br>- UIKit<br>- MVP | MVVM | VIPER <br>- CocoaPods | SPM<br>- CoreData | Realm<br>- UI | Snapshot | Unit testing</h4>
 
 ###
 
